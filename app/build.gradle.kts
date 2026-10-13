@@ -3,21 +3,13 @@ plugins {
 }
 
 android {
-<<<<<<< HEAD
     namespace = "com.godsfa.mimayoredad"
-=======
-    namespace = "com.godsfa.aplicacionsaludo"
->>>>>>> c730b453700953d88edda58ada9f80b5873bc822
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-<<<<<<< HEAD
         applicationId = "com.godsfa.mimayoredad"
-=======
-        applicationId = "com.godsfa.aplicacionsaludo"
->>>>>>> c730b453700953d88edda58ada9f80b5873bc822
         minSdk = 24
         targetSdk = 37
         versionCode = 1
