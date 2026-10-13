@@ -22,9 +22,9 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< HEAD
+
 rootProject.name = "miMayorEdad"
-=======
-rootProject.name = "AplicacionSaludo"
->>>>>>> c730b453700953d88edda58ada9f80b5873bc822
+
+
+
 include(":app")
