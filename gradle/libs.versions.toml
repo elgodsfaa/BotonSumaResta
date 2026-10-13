@@ -1,6 +1,10 @@
 [versions]
 agp = "9.4.1"
+<<<<<<< HEAD
 coreKtx = "1.19.1"
+=======
+coreKtx = "1.19.0"
+>>>>>>> c730b453700953d88edda58ada9f80b5873bc822
 junit = "4.13.2"
 junitVersion = "1.3.0"
 espressoCore = "3.7.0"

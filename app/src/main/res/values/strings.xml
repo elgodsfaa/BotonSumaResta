@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">miMayorEdad</string>
+=======
+    <string name="app_name">AplicacionSaludo</string>
+>>>>>>> c730b453700953d88edda58ada9f80b5873bc822
 </resources>
