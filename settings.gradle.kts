@@ -24,7 +24,4 @@ dependencyResolutionManagement {
 
 
 rootProject.name = "miMayorEdad"
-
-
-
 include(":app")
